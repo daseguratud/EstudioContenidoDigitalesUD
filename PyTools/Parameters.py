@@ -1,9 +1,8 @@
 class Parameters:
     contenidosOriginalesPath = "./01_Contenidos/"
-    contenidosTraducidosPath = "./02_ContenidosTraducidos/"
-    contenidosUnificadosPath = "./03_ContenidosConsolidados/"
-    contenidosLimpiosPath = "./04_ContenidosLimpios/"
-    nubePalabrasPath = "./05_NubeDePalabras/"
+    contenidosUnificadosPath = "./02_ContenidosConsolidados/"
+    contenidosLimpiosPath = "./03_ContenidosLimpios/"
+    nubePalabrasPath = "./04_NubeDePalabras/"
     contenidosUnificadosFile = "Contenidos.txt"
     nubePalabrasFileFrec = "Frecuencies.csv"
     nubePalabrasFileImg = "Frecuencies.png"
